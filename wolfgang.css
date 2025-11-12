@@ -1,0 +1,6 @@
+html{font-size: 1em;}
+.wrapper{max-width: 600px; margin: 0 auto;}
+
+.header{font-size: 3rem; line-height: 1; letter-spacing: -4px;}
+.copy{font-size: 1rem; line-height: 1.5; letter-spacing: 2px; word-spacing: 100px;}
+.helper-text{font-size: .8rem;}
